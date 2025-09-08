@@ -42,42 +42,42 @@ export default function MainA() {
   const cards = [
     {
       title: "Chan Dany-ចាន់ ដានី",
-      image: "src/image/image/chan-Dany/image.png",
+      image: "image/chan-Dany/image.png",
       link: "/cdn",
     },
     {
       title: "Chim Suthy -​ ឈឹម សុធី",
-      image: "src/image/image/Chim Suthy/photo_10_2025-08-11_20-16-46.jpg",
+      image: "image/Chim Suthy/photo_10_2025-08-11_20-16-46.jpg",
       link : "/cs",
     },
     {
       title: "Kheom Kolab-គឿម កូឡាប",
-      image: "src/image/image/Kheom Kolab/photo_1_2025-08-11_20-19-20.jpg",
+      image: "image/Kheom Kolab/photo_1_2025-08-11_20-19-20.jpg",
       link : "/kk",
     },
     {
       title: "Khchao Tuch-ខ្ចៅ​ ទូច",
-      image: "src/image/image/kmao-tuch/image.png",
+      image: "image/kmao-tuch/image.png",
       link : "/kt",
     },
     {
       title: "Ou Vanndy-អ៊ូ វណ្ណឌី",
-      image: "src/image/image/Ou Vanndy/img.png",
+      image: "image/Ou Vanndy/img.png",
       link : "/ov",
     },
     {
       title: "Ouk Chim Vichet-អ៊ុក ឈឹមវិចិត្រ",
-      image: "src/image/image/Ouk-Chim-Vichet/3.jpg",
+      image: "image/Ouk-Chim-Vichet/3.jpg",
       link: "/ocv",
     },
     {
       title: "Pen Robot-ភិន​ រ៉ូបត",
-      image: "src/image/image/PenRobot/image.png",
+      image: "image/PenRobot/image.png",
       link: "/pr",
     },
     {
       title: "Reun Sokhom-រឿន សុខុម",
-      image: "src/image/image/Reun-Sokhom/image.png",
+      image: "image/Reun-Sokhom/image.png",
       link : "/rs"
     },
   ];
