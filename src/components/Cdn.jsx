@@ -4,14 +4,14 @@ import React from "react";
 
 function Cdn() {
   const images = [
-    "src/image/image/chan-Dany/photo_1_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_2_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_3_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_10_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_7_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_8_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_5_2025-08-12_09-46-10.jpg",
-    "src/image/image/chan-Dany/photo_6_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_1_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_2_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_3_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_10_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_7_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_8_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_5_2025-08-12_09-46-10.jpg",
+    "image/chan-Dany/photo_6_2025-08-12_09-46-10.jpg",
   ];
 
   return (

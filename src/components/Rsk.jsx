@@ -3,15 +3,15 @@ import React from 'react'
 function Rsk() {
  const images=[
         
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221137.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221154.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221207.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221222.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221237.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221301.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221317.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221331.png",
-        "src/image/image/Reun-Sokhom/Screenshot 2025-08-30 221348.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221137.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221154.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221207.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221222.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221237.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221301.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221317.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221331.png",
+        "image/Reun-Sokhom/Screenshot 2025-08-30 221348.png",
     ]
   return (
     <div>

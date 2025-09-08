@@ -2,15 +2,15 @@ import React from 'react'
 
 function Prb() {
        const images=[
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220713.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220729.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220742.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220803.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220817.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220828.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220842.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220902.png",
-       "src/image/image/PenRobot/Screenshot 2025-08-30 220921.png",
+       "image/PenRobot/Screenshot 2025-08-30 220713.png",
+       "image/PenRobot/Screenshot 2025-08-30 220729.png",
+       "image/PenRobot/Screenshot 2025-08-30 220742.png",
+       "image/PenRobot/Screenshot 2025-08-30 220803.png",
+       "image/PenRobot/Screenshot 2025-08-30 220817.png",
+       "image/PenRobot/Screenshot 2025-08-30 220828.png",
+       "image/PenRobot/Screenshot 2025-08-30 220842.png",
+       "image/PenRobot/Screenshot 2025-08-30 220902.png",
+       "image/PenRobot/Screenshot 2025-08-30 220921.png",
 
     ]
   return (

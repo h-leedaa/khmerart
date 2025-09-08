@@ -2,13 +2,13 @@ import React from 'react'
 
 function Kmt() {
  const images=[
-        "src/image/image/kmao-tuch/kmt2.webp",
-        "src/image/image/kmao-tuch/kmt3.jpg",
-        "src/image/image/kmao-tuch/kmt4.jpg",
-        "src/image/image/kmao-tuch/kmt5.webp",
-        "src/image/image/kmao-tuch/kmt6.webp",
-        "src/image/image/kmao-tuch/kmt7.jpg",
-        "src/image/image/kmao-tuch/kmt9.jpg",
+        "image/kmao-tuch/kmt2.webp",
+        "image/kmao-tuch/kmt3.jpg",
+        "image/kmao-tuch/kmt4.jpg",
+        "image/kmao-tuch/kmt5.webp",
+        "image/kmao-tuch/kmt6.webp",
+        "image/kmao-tuch/kmt7.jpg",
+        "image/kmao-tuch/kmt9.jpg",
         
     ]
   return (

@@ -16,7 +16,7 @@ function App() {
         {/* Logo + Name */}
         <div className="flex items-center space-x-2">
           <img
-            src="src/image/image/logo.jpg"
+            src="image/logo.jpg"
             alt="logo"
             className="w-[50px] h-[50px] rounded-full"
           />

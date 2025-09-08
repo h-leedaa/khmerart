@@ -2,14 +2,14 @@ import React from 'react'
 
 function Ovch() {
      const images=[
-       "src/image/image/Ouk-Chim-Vichet/1.jpg",
-       "src/image/image/Ouk-Chim-Vichet/2.webp",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220243.png",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220408.png",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220425.png",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220506.png",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220518.png",
-       "src/image/image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220534.png",
+       "image/Ouk-Chim-Vichet/1.jpg",
+       "image/Ouk-Chim-Vichet/2.webp",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220243.png",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220408.png",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220425.png",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220506.png",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220518.png",
+       "image/Ouk-Chim-Vichet/Screenshot 2025-08-30 220534.png",
 
     ]
   return (

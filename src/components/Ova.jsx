@@ -3,12 +3,12 @@ import React from 'react'
 function Ova() {
     const images=[
         
-        "src/image/image/Ou Vanndy/1.jpg",
-        "src/image/image/Ou Vanndy/01.webp",
-        "src/image/image/Ou Vanndy/2.jpg",
-        "src/image/image/Ou Vanndy/3.webp",
-        "src/image/image/Ou Vanndy/6.webp",
-        "src/image/image/Ou Vanndy/7.webp",
+        "image/Ou Vanndy/1.jpg",
+        "image/Ou Vanndy/01.webp",
+        "image/Ou Vanndy/2.jpg",
+        "image/Ou Vanndy/3.webp",
+        "image/Ou Vanndy/6.webp",
+        "image/Ou Vanndy/7.webp",
         
     ]
   return (

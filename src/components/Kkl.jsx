@@ -2,17 +2,17 @@ import React from 'react'
 
 function Kkl() {
   const images=[
-        "src/image/image/Kheom Kolab/photo_2_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_3_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_4_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_5_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_7_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_9_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_11_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_12_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_13_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_14_2025-08-11_20-19-20.jpg",
-        "src/image/image/Kheom Kolab/photo_10_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_2_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_3_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_4_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_5_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_7_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_9_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_11_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_12_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_13_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_14_2025-08-11_20-19-20.jpg",
+        "image/Kheom Kolab/photo_10_2025-08-11_20-19-20.jpg",
       
     ]
   return (

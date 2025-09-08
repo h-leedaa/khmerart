@@ -2,14 +2,14 @@ import React from 'react'
 
 function Cst() {
     const images=[
-        "src/image/image/Chim Suthy/photo_1_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_2_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_3_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_4_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_5_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_6_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/photo_7_2025-08-11_20-16-46.jpg",
-        "src/image/image/Chim Suthy/image.png",
+        "image/Chim Suthy/photo_1_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_2_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_3_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_4_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_5_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_6_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/photo_7_2025-08-11_20-16-46.jpg",
+        "image/Chim Suthy/image.png",
     ]
   return (
     <div>
