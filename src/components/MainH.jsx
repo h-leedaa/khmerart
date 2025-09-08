@@ -18,7 +18,7 @@ function MainH() {
                 <br/><br/>At Khmer Art, our mission is to give artists a stage to share their inventions with the world, while inspiring new generations to
                  value, preserve, and reimagine Cambodia’s cultural heritage. Together, let’s celebrate the voices of our artists and the timeless 
                  spirit of Khmer creativity.</p>
-            <img src="./image/image/ANM-Home-Art-Exhibition-23-1.jpg" className='w-full h-[400px]  '  />
+            <img src="../../src/image/image/ANM-Home-Art-Exhibition-23-1.jpg" className='w-full h-[400px]  '  />
             </div>
         </div>
         </section>
