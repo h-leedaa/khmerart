@@ -71,7 +71,7 @@ export default function MainA() {
       link: "/ocv",
     },
     {
-      title: "Pen Robot-ភិន​ រ៉ូបត",
+      title: "Pen Robit-ភិន​ រ៉ូប៊ីត",
       image: "image/PenRobot/image.png",
       link: "/pr",
     },
