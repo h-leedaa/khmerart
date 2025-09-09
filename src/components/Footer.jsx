@@ -17,7 +17,7 @@ function Footer() {
         {/* Quick Links */}
         <div>
           <h2 className="text-xl font-bold mb-4">Quick Links</h2>
-          <ul className="space-y-2 text-sm">
+          <ul className="space-y-2 text-bold">
             <li>
               <a href="/" className="hover:text-white transition-colors text-red-600">
                 Home

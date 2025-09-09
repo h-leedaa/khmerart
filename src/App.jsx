@@ -27,26 +27,10 @@ function App() {
 
         {/* Desktop menu */}
         <ul className="hidden md:flex gap-8 text-lg font-bold">
-          <li>
-            <NavLink to="/" className="hover:text-red-600">
-              Home
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/about" className="hover:text-red-600">
-              About
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/artist" className="hover:text-red-600">
-              Artist
-            </NavLink>
-          </li>
-          <li>
-            <NavLink to="/contact" className="hover:text-red-600">
-              Contact
-            </NavLink>
-          </li>
+          <li><NavLink to="/" className="hover:text-red-600">Home</NavLink></li>
+          <li><NavLink to="/about" className="hover:text-red-600"> About</NavLink></li>
+          <li><NavLink to="/artist" className="hover:text-red-600">Artist</NavLink></li>
+          <li><NavLink to="/contact" className="hover:text-red-600">Contact</NavLink></li>
         </ul>
 
         {/* Mobile hamburger */}
@@ -61,38 +45,22 @@ function App() {
         {open && (
           <ul className="absolute top-[70px] left-0 w-full bg-gray-700 flex flex-col space-y-4 p-4 text-lg font-bold md:hidden cursor-pointer transform transition-transform duratio-0.2 ease-in-out">
             <li>
-              <NavLink
-                to="/"
-                onClick={() => setOpen(false)}
-                className="hover:text-red-600"
-              >
+              <NavLink to="/" onClick={() => setOpen(false)} className="hover:text-red-600">
                 Home
               </NavLink>
             </li>
             <li>
-              <NavLink
-                to="/about"
-                onClick={() => setOpen(false)}
-                className="hover:text-red-600"
-              >
+              <NavLink to="/about" onClick={() => setOpen(false)} className="hover:text-red-600">
                 About
               </NavLink>
             </li>
             <li>
-              <NavLink
-                to="/artist"
-                onClick={() => setOpen(false)}
-                className="hover:text-red-600"
-              >
+              <NavLink  to="/artist"  onClick={() => setOpen(false)}  className="hover:text-red-600">
                 Artist
               </NavLink>
             </li>
             <li>
-              <NavLink
-                to="/contact"
-                onClick={() => setOpen(false)}
-                className="hover:text-red-600"
-              >
+              <NavLink to="/contact" onClick={() => setOpen(false)} className="hover:text-red-600">
                 Contact
               </NavLink>
             </li>
