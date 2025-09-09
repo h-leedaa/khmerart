@@ -19,22 +19,22 @@ function Footer() {
           <h2 className="text-xl font-bold mb-4">Quick Links</h2>
           <ul className="space-y-2 text-sm">
             <li>
-              <a href="/" className="hover:text-white transition-colors">
+              <a href="/" className="hover:text-white transition-colors text-red-600">
                 Home
               </a>
             </li>
             <li>
-              <a href="/about" className="hover:text-white transition-colors">
+              <a href="/about" className="hover:text-white transition-colors text-red-600">
                 About
               </a>
             </li>
             <li>
-              <a href="/artist" className="hover:text-white transition-colors">
+              <a href="/artist" className="hover:text-white transition-colors text-red-600">
                 Artist
               </a>
             </li>
             <li>
-              <a href="/contact" className="hover:text-white transition-colors">
+              <a href="/contact" className="hover:text-white transition-colors text-red-600">
                 Contact
               </a>
             </li>
@@ -45,8 +45,8 @@ function Footer() {
         <div>
           <h2 className="text-xl font-bold mb-4">Contact</h2>
           <p className="text-sm">Phnom Penh, Cambodia</p>
-          <p className="text-sm">Email: info@khmerart.com</p>
-          <p className="text-sm">Phone: +855 12 345 678</p>
+          <p className="text-sm">Email: leedaa@khmerart.com</p>
+          <p className="text-sm">Phone: +855 96 761 9040</p>
         </div>
       </div>
 
