@@ -13,7 +13,7 @@ function MainAb() {
                     <p className='m-auto w-full sm:w-[60%] mt-[50px] ' >
                             <strong>Khmer Art Inventions</strong> is a platform dedicated to showcasing the creativity and 
                             innovations of Khmer artists. We believe that art is not only a form of beauty, but
-                             also an invention — a way for each artist to express new ideas, reimagine traditions, 
+                             also an invention — a  way for each artist to express new ideas, reimagine traditions, 
                              and share their vision with the world.
                     </p>
                     <h1 className='m-auto w-full sm:w-[60%] text-3xl mt-[60px] font-bold '>Our Misson</h1>
