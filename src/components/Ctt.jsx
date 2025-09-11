@@ -26,7 +26,7 @@ function Ctt() {
         {/* Contact Details */}
         <div className="bg-gray-100 shadow-md rounded-2xl p-6">
           <h2 className="text-xl font-bold mb-4 text-gray-800">Contact Info</h2>
-          <p className="text-gray-700">Email: LeeDaa@khmerart.com</p>
+          <p className="text-gray-700">Email: leedaa@khmerart.com</p>
           <p className="text-gray-700">Phone: +855 96 761 9040</p>
         </div>
       </div>
