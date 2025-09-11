@@ -9,7 +9,7 @@ function Footer() {
           <h2 className="text-xl font-bold mb-4">Khmer Art Showcase</h2>
           <p className="text-sm leading-relaxed">
             Celebrating Khmer creativity by showcasing artists who bring
-            tradition and innovation together through painting, sculpture,
+            tradition and innovation together through painting , sculpture,
             installation, and more.
           </p>
         </div>

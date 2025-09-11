@@ -10,7 +10,7 @@ function Ctt() {
 
       {/* Intro Text */}
       <p className="text-center text-gray-600 max-w-2xl m-auto leading-relaxed mb-10">
-        We’d love to hear from you! Whether you’re an artist, researcher, or art
+        We’d love to hear from you! Whether  you’re an artist , researcher, or art
         enthusiast, feel free to reach out for inquiries, collaborations, or
         exhibition opportunities.
       </p>
