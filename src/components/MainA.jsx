@@ -21,7 +21,7 @@ const Card = ({ title, image ,link}) => {
 
       {/* Card Title */}
       <h2
-        className={`mt-3 text-lg  h-13  font-bold transition-colors duration-300   ${
+        className={`mt-3 text-lg  h-13  font-bold transition-colors duration-400   ${
           open ? "text-white" : "hover:text-red-800"
         }`}
       >
